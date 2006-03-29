@@ -1,0 +1,15 @@
+---
+name: Config-PackageGlobal-OO
+version: 0.01
+author:
+  - 'Yuval Kogman <nothingmuch@woobling.org>'
+abstract: A generic configuration object for modules with package global configuration
+license: perl
+requires:
+  Context::Handle: 0.01
+  ok: 0
+provides:
+  Config::PackageGlobal::OO:
+    file: lib/Config/PackageGlobal/OO.pm
+    version: 0.01
+generated_by: Module::Build version 0.2611
