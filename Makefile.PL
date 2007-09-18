@@ -6,9 +6,11 @@ WriteMakefile
           'VERSION_FROM' => 'lib/Config/PackageGlobal/OO.pm',
           'PREREQ_PM' => {
                            'Context::Handle' => '0.01',
+                           'Test::Exception' => '0',
                            'ok' => '0'
                          },
           'INSTALLDIRS' => 'site',
+          'EXE_FILES' => [],
           'PL_FILES' => {}
         )
 ;

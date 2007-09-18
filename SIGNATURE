@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.52.
+signed via the Module::Signature module, version 0.55.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,17 +14,17 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 f4baca93400295824130d542d8f2f948184e42d9 Build.PL
+SHA1 ac83fa74bccccb56bc8c192bad0475d38925cf05 Build.PL
 SHA1 3d7b18c0876904ec69a0546b228fa26ecbd96059 MANIFEST
-SHA1 8e16180247262ed248d01c0b51bd0c4e031c6e34 META.yml
-SHA1 fdf2fb72e5cef4e60a3d7f45c26a32e746521888 Makefile.PL
+SHA1 8c13a46ee5650053f0b13409c26d1f9761c66753 META.yml
+SHA1 894894d53372e6f6c6fb99aab0aed81bdc06b8b6 Makefile.PL
 SHA1 bb5f352db54b2b9bb8e11b34a1f6528aa93c5c4b README
-SHA1 abc12d7b3778db301b898d34bebbb5d5832165e0 lib/Config/PackageGlobal/OO.pm
+SHA1 8a997f39aaaeb573710971659480c235ab910d47 lib/Config/PackageGlobal/OO.pm
 SHA1 45793c7b70950b157e11e14456116f63345a6376 t/01_basic.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.1 (Darwin)
+Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFEKq2tVCwRwOvSdBgRAindAKCth+hV/EtwnV0BrYLxxhw+UHHfnwCeMyXD
-RXgTr/cmKVoO4gf3iqswLz4=
-=xqvI
+iD8DBQFG711HVCwRwOvSdBgRAhNoAJoDmwBjujWOwlwqQIXzAPWtHXDE/ACfWgfZ
+etOUxlw8LBCYPYCR24lHMQI=
+=4mQI
 -----END PGP SIGNATURE-----
